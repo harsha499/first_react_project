@@ -1,0 +1,9 @@
+.title
+{
+    box-shadow: 4px 4px 4px 4px grey;
+    width: auto;
+    margin:auto;
+    background-color: #ff95a8;
+    align-self:flex-end ;
+    cursor: pointer;
+}
